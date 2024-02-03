@@ -4,7 +4,7 @@ This is my own implementation of [Conway's game of life](https://en.wikipedia.or
 ## Requirements
 - C compiler (CC)
 - Make
-- Raylib
+- Raylib 5.0
 
 ## Setup
 ```bash
