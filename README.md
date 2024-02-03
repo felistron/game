@@ -1,5 +1,5 @@
 # Game of life in c
-This is my own implementation of Conway's game of life, made with C and [raylib](https://github.com/raysan5/raylib).
+This is my own implementation of [Conway's game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), made with C and [raylib](https://github.com/raysan5/raylib).
 
 ## Controls
 - [SPACE] Pause/Play generation
