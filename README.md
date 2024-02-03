@@ -15,7 +15,9 @@ This is my own implementation of [Conway's game of life](https://en.wikipedia.or
 
 ## Setup
 ### Linux
-```bash
+```sh
+git clone https://github.com/felistron/game-of-life.git
+cd game-of-life
 make
 ./build/main
 ```
