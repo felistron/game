@@ -9,19 +9,19 @@ This is my own implementation of [Conway's game of life](https://en.wikipedia.or
 </div>
 
 ## Requirements
-### Linux
 - C compiler (CC)
 - Make
 - Raylib 5.0
 
-### Windows and MacOS
-Not implemented yet
-
 ## Setup
+### Linux
 ```bash
 make
 ./build/main
 ```
+
+### Windows and MacOS
+Not implemented yet
 
 ## Controls
 - [SPACE] Pause/Play generation
